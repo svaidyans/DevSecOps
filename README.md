@@ -122,4 +122,4 @@ Detailed output from a sample execution is as below:
 [[Goto Top]](#devsecops)
 
 ## Feedback
-Please share your inputs with [Vaidyanathan Sivasubramanian](mailto:vsivasubram3@csc.com).
+Please share your inputs with [Vaidyanathan Sivasubramanian](mailto:svaidyan_signup@hotmail.com).
